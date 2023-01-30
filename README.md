@@ -1,5 +1,15 @@
 ### 채팅앱 만들기
 
+### 실행 방법
+
+```js
+git clone
+
+npm install
+
+npm start
+```
+
 #### 사용한 기술
 - React.js
 - scss
